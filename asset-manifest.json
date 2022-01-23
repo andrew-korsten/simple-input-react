@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/simple-input-react/static/css/main.e6c13ad2.css",
+    "main.js": "/simple-input-react/static/js/main.63665179.js",
+    "index.html": "/simple-input-react/index.html",
+    "main.e6c13ad2.css.map": "/simple-input-react/static/css/main.e6c13ad2.css.map",
+    "main.63665179.js.map": "/simple-input-react/static/js/main.63665179.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.63665179.js"
+  ]
+}
